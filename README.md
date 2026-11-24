@@ -2,7 +2,7 @@
 🐍 Python OOP: From Beginner to Advanced
 
 A hands-on journey through Object-Oriented Programming in Python, from the first class to real-world projects.
-iv align="center">
+
 
 # 🐍 Python OOP: Beginner to Advanced
 
