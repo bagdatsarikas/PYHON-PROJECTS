@@ -1,36 +1,40 @@
 
-🐍 Python OOP: From Beginner to Advanced
-
-A hands-on journey through Object-Oriented Programming in Python, from the first class to real-world projects.
 
 
-# 🐍 Python OOP: Beginner to Advanced
+# 🐍 Core Python: Beginner to Advanced
 
-**Hands-on Object-Oriented Programming exercises and projects in Python.**
+Hands-on Python exercises and mini projects, progressing from basic concepts to more advanced programming.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning-2EA44F?style=for-the-badge)
+## Topics Covered
 
-</div>
+- **Python fundamentals:** Variables, data types, operators, input, and output
+- **Control flow:** Conditions, for loops, while loops, break, and continue
+- **Collections:** Strings, lists, dictionaries, tuples, sets, and their methods
+- **Functions:** Parameters, arguments, return values, scope, and reusable code
+- **File handling:** Reading, writing, appending, file modes, and context managers
+- **Exception handling:** try, except, else, finally, and raising exceptions
+- **Object-oriented programming:** Classes, objects, attributes, methods, inheritance, encapsulation, and polymorphism
+- **Further practice:** Comprehensions, modules, iterators, and generators
 
----
+## Exercise Format
 
-## 🗺️ Learning Path
+Each exercise includes:
 
+1. A clear goal and requirements
+2. A short explanation of the approach
+3. Readable Python code
+4. Example inputs and expected outputs
+5. Common mistakes and relevant error handling
 
+## Tools
 
-| | Level | What I Practice | Status |
-|:---:|---|---|:---:|
-| 🟢 | **Beginner** | Classes · `__init__` · Methods · `return` vs `print` | 🔄 In Progress |
-| 🟡 | **Intermediate** | Lists · Dicts · Sets · Tuples inside classes | 🔄 In Progress |
-| 🔴 | **Advanced** | Inheritance · Encapsulation · Polymorphism | ⏳ Planned |
-| 🚀 | **Projects** | Real apps built with OOP | ⏳ Planned |
+- Python 3
+- Jupyter Notebook
+- Python standard library
 
----
+## Progress
 
-## 🚀 Projects (Coming Soon)
-
+Work in progress. Exercises and mini projects are added as I learn, practice, and review each topic.
 
 
 
