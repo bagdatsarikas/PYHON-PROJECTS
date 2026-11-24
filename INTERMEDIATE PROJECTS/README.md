@@ -1,67 +1,46 @@
+# Python Intermediate Projects
 
+A collection of practical Python projects focused on strengthening
+core programming skills through realistic business scenarios.
 
-Python Intermediate Projects
+## Objective
 
-Overview
+Develop practical Python skills by solving progressively challenging
+business problems, from beginner to intermediate level.
 
-This repository contains practical Python projects designed to strengthen core programming skills through realistic business scenarios.
+## Core Python Concepts
 
-The projects progress gradually from beginner to intermediate level, focusing on problem-solving, data processing, and writing clean, reusable Python code.
+- File Handling (CSV, TXT, JSON)
+- Lists and Dictionaries
+- Sets and Tuples
+- String Manipulation
+- Loops and Conditional Statements
+- Functions
+- Exception Handling
+- Nested Data Structures
+- List and Dictionary Comprehensions
+- Data Validation and Processing
 
-Topics Covered
-
-File handling (CSV, TXT, JSON)
-
-Lists and list methods
-
-Dictionaries and dictionary methods
-
-Sets and tuples
-
-Strings and string methods
-
-Loops and conditional statements
-
-Functions
-
-Exception handling
-
-Nested data structures
-
-List and dictionary comprehensions
-
-Data validation and cleaning
-
-Project Approach
+## Project Structure
 
 Each project includes:
 
-A realistic business scenario
+- Business background and objectives
+- Realistic datasets (maximum 500 records)
+- Practical programming tasks
+- Step-by-step solutions with code comments
+- A complete executable Python script
 
-A dataset containing up to 500 records
+## Technologies
 
-Step-by-step practical tasks
+- Python 3
+- Jupyter Notebook
+- Python Standard Library
 
-Python solutions with explanatory comments
+All projects are implemented using Core Python without
+third-party libraries.
 
-A complete, runnable Python script
+## Status
 
-Tools and Technologies
-
-Python 3
-
-Jupyter Notebook
-
-Python Standard Library
-
-Git and GitHub
-
-All projects use Core Python without external libraries such as Pandas or NumPy.
-
-Learning Objective
-
-Develop strong Python programming foundations, improve problem-solving skills, and gain practical experience through progressively challenging real-world projects.
-
-Repository Status
-
-Ongoing — new projects and exercises will be added regularly as part of continuous Python learning and practice.
+In Progress — continuously updated with new projects
+and practical exercises.
