@@ -1,0 +1,301 @@
+order_id,order_date,customer_id,product_name,category,quantity,unit_price,discount,city,payment_method
+ORD0001,2026-09-08,CUST004,Backpack,Accessories,3,48.00,0.00,Oakland,Debit Card
+ORD0002,2026-09-07,CUST087,USB Cable,Electronics,5,10.00,0.00,Fremont,Online
+ORD0003,2026-09-02,CUST012,Laptop,Electronics,2,850.00,0.00,Fremont,Credit Card
+ORD0004,2026-09-13,CUST092,Notebook,Stationery,5,6.00,0.10,Oakland,Online
+ORD0005,2026-09-18,CUST001,Pen Set,Stationery,2,12.00,0.20,Sacramento,Cash
+ORD0006,2026-09-10,CUST028,Headphones,Electronics,3,65.00,0.00,San Francisco,Online
+ORD0007,2026-09-23,CUST045,Mouse,Electronics,5,25.00,0.05,San Francisco,Online
+ORD0008,2026-09-08,CUST049,Notebook,Stationery,1,6.00,0.15,San Jose,Cash
+ORD0009,2026-09-13,CUST091,Pen Set,Stationery,1,12.00,0.00,Oakland,Cash
+ORD0010,2026-10-25,CUST030,Mouse,Electronics,1,25.00,0.10,San Jose,Online
+ORD0011,2026-10-24,CUST047,Backpack,Accessories,2,48.00,0.05,San Jose,Debit Card
+ORD0012,2026-09-18,CUST090,Backpack,Accessories,1,48.00,0.15,Oakland,Debit Card
+ORD0013,2026-09-30,CUST049,Keyboard,Electronics,3,75.00,0.20,Fremont,Debit Card
+ORD0014,2026-09-21,CUST008,Backpack,Accessories,2,48.00,0.00,San Jose,Online
+ORD0015,2026-09-05,CUST028,Headphones,Electronics,5,65.00,0.20,San Jose,Debit Card
+ORD0016,2026-10-02,CUST051,Backpack,Accessories,4,48.00,0.00,San Jose,Debit Card
+ORD0017,2026-10-18,CUST072,Monitor,Electronics,5,220.00,0.05,Fremont,Online
+ORD0018,2026-09-26,CUST047,Pen Set,Stationery,2,12.00,0.00,Fremont,Online
+ORD0019,2026-10-19,CUST007,Mouse,Electronics,1,25.00,0.00,Oakland,Online
+ORD0020,2026-09-05,CUST050,Pen Set,Stationery,4,12.00,0.15,Sacramento,Cash
+ORD0021,2026-10-26,CUST002,Notebook,Stationery,1,6.00,0.20,Fremont,Cash
+ORD0022,2026-09-22,CUST015,Backpack,Accessories,3,48.00,0.10,Oakland,Online
+ORD0023,2026-10-17,CUST093,Laptop,Electronics,3,850.00,0.15,Oakland,Credit Card
+ORD0024,2026-09-20,CUST082,Backpack,Accessories,5,48.00,0.15,Oakland,Debit Card
+ORD0025,2026-10-19,CUST021,Desk Chair,Furniture,5,145.00,0.15,San Francisco,Cash
+ORD0026,2026-09-02,CUST015,Desk Lamp,Home Office,3,35.00,0.05,Oakland,Credit Card
+ORD0027,2026-10-27,CUST073,Monitor,Electronics,1,220.00,0.00,Sacramento,Credit Card
+ORD0028,2026-10-20,CUST017,Notebook,Stationery,2,6.00,0.20,Sacramento,Debit Card
+ORD0029,2026-10-04,CUST078,Headphones,Electronics,4,65.00,0.00,Fremont,Debit Card
+ORD0030,2026-09-20,CUST052,USB Cable,Electronics,3,10.00,0.10,Fremont,Online
+ORD0031,2026-09-16,CUST029,Mouse,Electronics,1,25.00,0.05,San Francisco,Debit Card
+ORD0032,2026-09-15,CUST001,Pen Set,Stationery,1,12.00,0.20,San Francisco,Debit Card
+ORD0033,2026-10-28,CUST005,Mouse,Electronics,3,25.00,0.00,Fremont,Debit Card
+ORD0034,2026-10-13,CUST063,Headphones,Electronics,2,65.00,0.15,Oakland,Online
+ORD0035,2026-10-21,CUST061,Monitor,Electronics,4,220.00,0.00,San Francisco,Credit Card
+ORD0036,2026-09-28,CUST046,Backpack,Accessories,4,48.00,0.10,Sacramento,Credit Card
+ORD0037,2026-10-12,CUST083,Backpack,Accessories,1,48.00,0.00,Sacramento,Cash
+ORD0038,2026-09-16,CUST025,Mouse,Electronics,2,25.00,0.15,Sacramento,Debit Card
+ORD0039,2026-09-12,CUST036,Standing Desk,Furniture,,320.00,0.00,San Francisco,Online
+ORD0040,2026-09-07,CUST007,Notebook,Stationery,5,6.00,0.00,San Francisco,Debit Card
+ORD0041,2026-09-27,CUST063,Keyboard,Electronics,4,75.00,0.00,Sacramento,Credit Card
+ORD0042,2026-09-25,CUST001,Keyboard,Electronics,4,75.00,0.05,Sacramento,Cash
+ORD0043,2026-10-15,CUST094,Standing Desk,Furniture,5,320.00,0.20,Sacramento,Debit Card
+ORD0044,2026-09-19,CUST028,Monitor,Electronics,1,220.00,0.15,Fremont,Credit Card
+ORD0045,2026-09-21,CUST008,USB Cable,Electronics,1,10.00,0.15,Sacramento,Debit Card
+ORD0046,2026-10-03,CUST011,Laptop,Electronics,2,850.00,0.00,Fremont,Credit Card
+ORD0047,2026-10-26,CUST031,Backpack,Accessories,4,48.00,0.00,Fremont,Debit Card
+ORD0048,2026-10-09,CUST006,Pen Set,Stationery,5,12.00,0.00,Sacramento,Cash
+ORD0049,2026-09-14,CUST086,Headphones,Electronics,3,65.00,0.00,San Jose,Online
+ORD0050,2026-10-13,CUST083,Keyboard,Electronics,3,75.00,0.10,San Jose,Credit Card
+ORD0051,2026-09-30,CUST080,Laptop,Electronics,5,850.00,0.00,San Francisco,Debit Card
+ORD0052,2026-09-17,CUST017,Notebook,Stationery,3,6.00,0.00,Oakland,Cash
+ORD0053,2026-09-11,CUST057,Headphones,Electronics,5,65.00,0.20,San Jose,Credit Card
+ORD0054,2026-10-23,CUST071,Backpack,Accessories,3,48.00,0.20,San Francisco,Debit Card
+ORD0055,2026-09-08,CUST014,Headphones,Electronics,5,65.00,0.00,San Jose,Cash
+ORD0056,2026-09-14,CUST092,Pen Set,Stationery,3,12.00,0.00,San Jose,Online
+ORD0057,2026-10-28,CUST007,Headphones,Electronics,1,65.00,0.20,Sacramento,Cash
+ORD0058,2026-09-01,CUST043,Laptop,Electronics,2,850.00,0.20,San Jose,Debit Card
+ORD0059,2026-09-29,CUST071,USB Cable,Electronics,4,10.00,0.15,San Francisco,Credit Card
+ORD0060,2026-10-31,CUST089,Mouse,Electronics,2,25.00,0.15,San Francisco,Cash
+ORD0061,2026-10-06,CUST019,Pen Set,Stationery,4,12.00,0.00,San Francisco,Cash
+ORD0062,2026-10-28,CUST006,Desk Chair,Furniture,3,145.00,0.00,Oakland,Credit Card
+ORD0063,2026-10-20,CUST072,Desk Chair,Furniture,4,145.00,0.15,Oakland,Debit Card
+ORD0064,2026-10-22,CUST023,Keyboard,Electronics,4,75.00,0.00,Oakland,Cash
+ORD0065,2026-10-22,CUST086,Standing Desk,Furniture,2,320.00,0.05,Oakland,Credit Card
+ORD0066,2026-10-26,CUST005,Standing Desk,Furniture,4,320.00,0.00,Oakland,Online
+ORD0067,2026-09-20,CUST030,Desk Chair,Furniture,2,145.00,0.00,Oakland,Online
+ORD0068,2026-09-18,CUST009,Desk Chair,Furniture,3,145.00,0.05,Fremont,Online
+ORD0069,2026-10-24,CUST069,Backpack,Accessories,3,48.00,0.00,San Francisco,Cash
+ORD0070,2026-10-08,CUST034,Keyboard,Electronics,1,75.00,0.00,Fremont,Online
+ORD0071,2026-10-17,CUST041,Desk Chair,Furniture,4,145.00,0.15,Fremont,Credit Card
+ORD0072,2026-10-28,CUST074,Standing Desk,Furniture,2,320.00,0.05,San Francisco,Online
+ORD0073,2026-10-04,CUST069,Laptop,Electronics,2,850.00,0.05,Sacramento,Credit Card
+ORD0074,2026-10-29,CUST043,Backpack,Accessories,5,48.00,0.05,San Francisco,Cash
+ORD0075,2026-09-20,CUST086,Notebook,Stationery,4,unknown,0.05,Sacramento,Cash
+ORD0076,2026-09-09,CUST025,Notebook,Stationery,4,6.00,0.20,Sacramento,Debit Card
+ORD0077,2026-10-07,CUST039,Pen Set,Stationery,4,12.00,0.15,San Francisco,Cash
+ORD0078,2026-09-14,CUST056,Headphones,Electronics,5,65.00,0.15,San Jose,Online
+ORD0079,2026-09-29,CUST087,Desk Lamp,Home Office,2,35.00,0.15,Sacramento,Debit Card
+ORD0080,2026-09-06,CUST037,Backpack,Accessories,5,48.00,0.20,Fremont,Cash
+ORD0081,2026-10-23,CUST031,Mouse,Electronics,3,25.00,0.00,Oakland,Debit Card
+ORD0082,2026-09-03,CUST032,Laptop,Electronics,4,850.00,0.15,San Francisco,Online
+ORD0083,2026-10-27,CUST081,Standing Desk,Furniture,5,320.00,0.00,Sacramento,Online
+ORD0084,2026-09-16,CUST019,Standing Desk,Furniture,1,320.00,0.00,Sacramento,Debit Card
+ORD0085,2026-10-22,CUST090,Keyboard,Electronics,5,75.00,0.10,San Francisco,Debit Card
+ORD0086,2026-09-30,CUST018,Mouse,Electronics,4,25.00,0.20,Fremont,Cash
+ORD0087,2026-10-10,CUST093,Desk Lamp,Home Office,5,35.00,0.10,Fremont,Online
+ORD0088,2026-10-18,CUST061,Keyboard,Electronics,4,75.00,0.05,Oakland,Cash
+ORD0089,2026-10-02,CUST081,Notebook,Stationery,2,6.00,0.05,Sacramento,Credit Card
+ORD0090,2026-09-19,CUST031,USB Cable,Electronics,3,10.00,0.05,San Jose,Credit Card
+ORD0091,2026-09-10,CUST030,Keyboard,Electronics,4,75.00,0.20,Oakland,Debit Card
+ORD0092,2026-09-27,CUST053,Mouse,Electronics,3,25.00,0.15,Sacramento,Online
+ORD0093,2026-09-14,CUST054,Laptop,Electronics,4,850.00,0.15,San Francisco,Online
+ORD0094,2026-09-01,CUST046,Desk Lamp,Home Office,3,35.00,0.10,Sacramento,Debit Card
+ORD0095,2026-09-15,CUST035,Desk Lamp,Home Office,4,35.00,0.10,San Francisco,Online
+ORD0096,2026-10-13,CUST087,Desk Chair,Furniture,4,145.00,0.20,Oakland,Online
+ORD0097,2026-10-10,CUST069,Keyboard,Electronics,1,75.00,0.10,Fremont,Credit Card
+ORD0098,2026-10-12,CUST055,Mouse,Electronics,2,25.00,0.10,Oakland,Credit Card
+ORD0099,2026-09-25,CUST042,Headphones,Electronics,2,65.00,0.10,San Jose,Cash
+ORD0100,2026-09-18,CUST054,Standing Desk,Furniture,3,320.00,0.00,Sacramento,Credit Card
+ORD0101,2026-10-05,CUST007,USB Cable,Electronics,3,10.00,0.00,San Francisco,Credit Card
+ORD0102,2026-10-31,CUST032,Laptop,Electronics,2,850.00,0.00,Fremont,Debit Card
+ORD0103,2026-09-09,CUST061,Monitor,Electronics,1,220.00,0.15,Oakland,Online
+ORD0104,2026-09-17,CUST048,USB Cable,Electronics,2,10.00,0.15,Fremont,Credit Card
+ORD0105,2026-09-20,CUST014,Keyboard,Electronics,5,75.00,0.00,San Jose,Online
+ORD0106,2026-10-31,CUST092,Standing Desk,Furniture,2,320.00,0.00,Fremont,Debit Card
+ORD0107,2026-10-15,CUST039,Mouse,Electronics,5,25.00,0.00,Fremont,Credit Card
+ORD0108,2026-10-05,CUST055,Desk Chair,Furniture,3,145.00,0.00,Fremont,Cash
+ORD0109,2026-10-25,CUST054,Laptop,Electronics,4,850.00,0.00,Sacramento,Cash
+ORD0110,2026-10-28,CUST059,Backpack,Accessories,2,48.00,0.10,Oakland,Cash
+ORD0111,2026-10-22,CUST069,Pen Set,Stationery,4,12.00,0.10,Sacramento,Cash
+ORD0112,2026-10-25,CUST032,Desk Chair,Furniture,1,145.00,0.05,Sacramento,Debit Card
+ORD0113,2026-10-07,CUST079,Desk Lamp,Home Office,4,35.00,0.05,San Francisco,Online
+ORD0114,2026-09-12,CUST063,Desk Chair,Furniture,2,145.00,0.05,San Jose,Cash
+ORD0115,2026-10-27,CUST077,Headphones,Electronics,3,65.00,0.15,San Francisco,Debit Card
+ORD0116,2026-09-16,CUST093,Mouse,Electronics,4,25.00,0.10,Fremont,Debit Card
+ORD0117,2026-10-01,CUST083,USB Cable,Electronics,4,10.00,0.10,San Francisco,Credit Card
+ORD0118,2026-09-15,CUST052,Headphones,Electronics,2,65.00,0.05,Fremont,Cash
+ORD0119,2026-10-06,CUST068,Desk Lamp,Home Office,3,35.00,0.10,Fremont,Cash
+ORD0120,2026-09-31,CUST059,Desk Chair,Furniture,3,145.00,0.05,San Jose,Debit Card
+ORD0121,2026-10-17,CUST025,Mouse,Electronics,3,25.00,0.00,Fremont,Debit Card
+ORD0122,2026-09-14,CUST095,Monitor,Electronics,4,220.00,0.05,Fremont,Cash
+ORD0123,2026-10-24,CUST025,Mouse,Electronics,3,25.00,0.00,San Jose,Debit Card
+ORD0124,2026-09-01,CUST091,Headphones,Electronics,5,65.00,0.00,San Jose,Credit Card
+ORD0125,2026-10-06,CUST038,Laptop,Electronics,2,850.00,0.20,Sacramento,Credit Card
+ORD0126,2026-10-07,CUST037,Laptop,Electronics,4,850.00,0.10,Sacramento,Cash
+ORD0127,2026-09-04,CUST033,Keyboard,Electronics,4,75.00,0.00,San Francisco,Online
+ORD0128,2026-09-05,CUST074,Desk Lamp,Home Office,1,35.00,0.00,Oakland,Cash
+ORD0129,2026-09-16,CUST016,Mouse,Electronics,5,25.00,0.10,Fremont,Debit Card
+ORD0130,2026-09-25,CUST058,Notebook,Stationery,4,6.00,0.05,Fremont,Online
+ORD0131,2026-10-07,CUST080,Headphones,Electronics,1,65.00,0.15,San Francisco,Debit Card
+ORD0132,2026-09-14,CUST034,Backpack,Accessories,1,48.00,0.00,Oakland,Debit Card
+ORD0133,2026-09-05,CUST021,Notebook,Stationery,1,6.00,0.10,Sacramento,Online
+ORD0134,2026-09-03,CUST030,Headphones,Electronics,3,65.00,0.20,San Jose,Online
+ORD0135,2026-10-14,CUST030,Mouse,Electronics,3,25.00,0.20,Fremont,Debit Card
+ORD0136,2026-09-08,CUST070,Standing Desk,Furniture,2,320.00,0.20,Oakland,Cash
+ORD0137,2026-09-05,CUST008,Keyboard,Electronics,2,75.00,0.05,Fremont,Cash
+ORD0138,2026-09-08,CUST060,Desk Lamp,Home Office,3,35.00,0.20,Sacramento,Cash
+ORD0139,2026-10-05,CUST064,Notebook,Stationery,4,6.00,0.00,Fremont,Credit Card
+ORD0140,2026-10-18,CUST042,Standing Desk,Furniture,5,320.00,0.05,San Francisco,Credit Card
+ORD0141,2026-10-14,CUST074,Monitor,Electronics,5,220.00,0.00,San Jose,Credit Card
+ORD0142,2026-10-01,CUST067,Keyboard,Electronics,4,75.00,0.05,Oakland,Online
+ORD0143,2026-10-23,CUST063,Backpack,Accessories,1,48.00,0.10,San Jose,Online
+ORD0144,2026-09-21,CUST086,Desk Chair,Furniture,1,145.00,0.00,San Jose,Online
+ORD0145,2026-10-02,CUST037,USB Cable,Electronics,4,10.00,0.15,San Francisco,Online
+ORD0146,2026-09-21,CUST033,Mouse,Electronics,3,25.00,0.00,Sacramento,Credit Card
+ORD0147,2026-10-26,CUST070,Backpack,Accessories,4,48.00,0.10,San Francisco,Debit Card
+ORD0148,2026-09-24,CUST080,Notebook,Stationery,4,6.00,0.20,Sacramento,Credit Card
+ORD0149,2026-09-18,CUST071,Monitor,Electronics,2,220.00,0.05,Sacramento,Online
+ORD0150,2026-09-02,CUST081,Mouse,Electronics,5,25.00,0.00,Oakland,Cash
+ORD0151,2026-09-01,CUST071,Notebook,Stationery,4,6.00,0.00,Oakland,Credit Card
+ORD0152,2026-10-31,CUST016,Desk Lamp,Home Office,2,35.00,0.10,San Jose,Cash
+ORD0153,2026-10-24,CUST062,Standing Desk,Furniture,4,320.00,0.00,Sacramento,Debit Card
+ORD0154,2026-09-13,CUST077,Standing Desk,Furniture,5,320.00,0.20,Oakland,Credit Card
+ORD0155,2026-10-20,CUST054,Headphones,Electronics,3,65.00,0.15,San Jose,Credit Card
+ORD0156,2026-10-17,CUST039,Headphones,Electronics,5,65.00,0.15,Sacramento,Debit Card
+ORD0157,2026-10-05,CUST062,Desk Lamp,Home Office,-2,35.00,0.05,Fremont,Online
+ORD0158,2026-10-30,CUST042,Desk Lamp,Home Office,2,35.00,0.20,Oakland,Online
+ORD0159,2026-10-25,CUST053,Monitor,Electronics,1,220.00,0.05,Sacramento,Online
+ORD0160,2026-10-13,CUST084,Standing Desk,Furniture,2,320.00,0.10,San Francisco,Debit Card
+ORD0161,2026-10-08,CUST043,Notebook,Stationery,1,6.00,0.10,San Francisco,Online
+ORD0162,2026-10-17,CUST019,Laptop,Electronics,4,850.00,0.20,Oakland,Credit Card
+ORD0163,2026-10-21,CUST034,Desk Lamp,Home Office,3,35.00,0.15,Sacramento,Credit Card
+ORD0164,2026-10-25,CUST087,Desk Chair,Furniture,5,145.00,0.10,San Jose,Online
+ORD0165,2026-09-03,CUST080,Notebook,Stationery,1,6.00,0.00,San Jose,Debit Card
+ORD0166,2026-09-06,CUST056,USB Cable,Electronics,1,10.00,0.20,San Francisco,Online
+ORD0167,2026-10-15,CUST039,Keyboard,Electronics,1,75.00,0.00,San Jose,Credit Card
+ORD0168,2026-09-23,CUST048,Headphones,Electronics,4,65.00,0.00,Oakland,Online
+ORD0169,2026-10-14,CUST024,Pen Set,Stationery,2,12.00,0.00,San Francisco,Online
+ORD0170,2026-10-14,CUST031,Pen Set,Stationery,4,12.00,0.15,Oakland,Debit Card
+ORD0171,2026-10-11,CUST033,Desk Lamp,Home Office,4,35.00,0.05,San Francisco,Online
+ORD0172,2026-10-14,CUST070,Headphones,Electronics,2,65.00,0.00,Sacramento,Cash
+ORD0173,2026-09-20,CUST082,Pen Set,Stationery,4,12.00,0.20,San Jose,Online
+ORD0174,2026-09-13,CUST050,Headphones,Electronics,4,65.00,0.00,Oakland,Online
+ORD0175,2026-09-23,CUST074,Pen Set,Stationery,3,12.00,0.20,San Jose,Credit Card
+ORD0176,2026-09-26,CUST036,Backpack,Accessories,1,48.00,0.15,San Francisco,Online
+ORD0177,2026-10-20,CUST030,Headphones,Electronics,5,65.00,0.05,Oakland,Debit Card
+ORD0178,2026-09-17,CUST087,Pen Set,Stationery,2,12.00,0.20,San Francisco,Credit Card
+ORD0179,2026-10-21,CUST057,Headphones,Electronics,1,65.00,0.15,San Jose,Debit Card
+ORD0180,2026-10-29,CUST038,Mouse,Electronics,3,25.00,0.20,Sacramento,Debit Card
+ORD0181,2026-09-09,CUST070,Monitor,Electronics,3,220.00,0.15,Fremont,Cash
+ORD0182,2026-09-17,CUST062,Keyboard,Electronics,3,75.00,0.20,San Jose,Credit Card
+ORD0183,2026-09-05,CUST019,Desk Lamp,Home Office,2,35.00,0.20,Sacramento,Cash
+ORD0184,2026-10-21,CUST051,Mouse,Electronics,1,25.00,0.05,Fremont,Credit Card
+ORD0185,2026-09-24,CUST087,Desk Lamp,Home Office,3,35.00,0.15,Sacramento,Cash
+ORD0186,2026-10-14,CUST030,Mouse,Electronics,4,25.00,0.00,Fremont,Cash
+ORD0187,2026-09-15,CUST083,Pen Set,Stationery,1,12.00,0.20,Sacramento,Cash
+ORD0188,2026-09-27,CUST015,Backpack,Accessories,2,48.00,0.00,San Francisco,Cash
+ORD0189,2026-09-08,CUST013,Desk Lamp,Home Office,2,35.00,0.15,Oakland,Online
+ORD0190,2026-09-24,CUST086,Desk Lamp,Home Office,5,35.00,0.10,Fremont,Debit Card
+ORD0191,2026-10-12,CUST013,Standing Desk,Furniture,4,320.00,0.15,Sacramento,Cash
+ORD0192,2026-10-15,CUST048,Laptop,Electronics,2,850.00,0.10,Sacramento,Debit Card
+ORD0193,2026-09-07,CUST088,Desk Chair,Furniture,3,145.00,0.15,San Jose,Credit Card
+ORD0194,2026-09-18,CUST025,Standing Desk,Furniture,1,320.00,0.10,San Francisco,Debit Card
+ORD0195,2026-10-11,CUST077,Backpack,Accessories,1,48.00,0.00,San Jose,Debit Card
+ORD0196,2026-10-21,CUST073,Keyboard,Electronics,2,75.00,0.00,Fremont,Debit Card
+ORD0197,2026-09-14,CUST030,Pen Set,Stationery,3,12.00,0.00,Fremont,Credit Card
+ORD0198,2026-10-25,CUST019,Headphones,Electronics,2,65.00,0.15,San Jose,Debit Card
+ORD0199,2026-10-13,CUST004,Mouse,Electronics,2,25.00,0.00,San Jose,Debit Card
+ORD0200,2026-09-21,CUST003,Pen Set,Stationery,2,12.00,1.20,San Francisco,Debit Card
+ORD0201,2026-09-27,CUST068,USB Cable,Electronics,1,10.00,0.20,San Francisco,Online
+ORD0202,2026-10-20,CUST047,Desk Lamp,Home Office,5,35.00,0.15,San Francisco,Online
+ORD0203,2026-09-15,CUST079,Notebook,Stationery,1,6.00,0.20,Fremont,Cash
+ORD0204,2026-10-12,CUST004,Desk Lamp,Home Office,1,35.00,0.10,Sacramento,Online
+ORD0205,2026-09-07,CUST063,Backpack,Accessories,4,48.00,0.00,San Francisco,Cash
+ORD0206,2026-09-10,CUST009,Pen Set,Stationery,2,12.00,0.05,Fremont,Cash
+ORD0207,2026-10-09,CUST068,Standing Desk,Furniture,3,320.00,0.10,Fremont,Online
+ORD0208,2026-10-21,CUST090,Mouse,Electronics,1,25.00,0.20,Fremont,Debit Card
+ORD0209,2026-09-29,CUST030,Standing Desk,Furniture,4,320.00,0.05,Sacramento,Online
+ORD0210,2026-10-17,CUST013,Standing Desk,Furniture,3,320.00,0.10,San Jose,Cash
+ORD0211,2026-09-10,CUST088,Desk Chair,Furniture,4,145.00,0.00,San Francisco,Credit Card
+ORD0212,2026-09-28,CUST013,Mouse,Electronics,3,25.00,0.00,Fremont,Credit Card
+ORD0213,2026-10-06,CUST072,Pen Set,Stationery,3,12.00,0.20,San Francisco,Online
+ORD0214,2026-10-26,CUST086,Desk Chair,Furniture,4,145.00,0.20,San Francisco,Cash
+ORD0215,2026-09-20,CUST046,Pen Set,Stationery,1,12.00,0.15,Fremont,Debit Card
+ORD0216,2026-10-13,CUST062,Keyboard,Electronics,2,75.00,0.00,San Jose,Cash
+ORD0217,2026-10-19,CUST036,Mouse,Electronics,5,25.00,0.00,Sacramento,Credit Card
+ORD0218,2026-10-30,CUST085,Pen Set,Stationery,3,12.00,0.00,Oakland,Cash
+ORD0219,2026-10-19,CUST040,USB Cable,Electronics,3,10.00,0.05,San Francisco,Debit Card
+ORD0220,2026-10-07,CUST085,Keyboard,Electronics,4,75.00,0.00,Oakland,Credit Card
+ORD0221,2026-10-18,CUST068,Mouse,Electronics,2,25.00,0.10,Sacramento,Online
+ORD0222,2026-09-11,CUST048,Desk Chair,Furniture,3,145.00,0.20,San Jose,Credit Card
+ORD0223,2026-09-10,CUST021,Laptop,Electronics,5,850.00,0.00,San Francisco,Cash
+ORD0224,2026-10-13,CUST055,Desk Lamp,Home Office,4,35.00,0.15,Sacramento,Online
+ORD0225,2026-09-14,CUST066,Headphones,Electronics,1,65.00,0.05,Sacramento,Credit Card
+ORD0226,2026-10-14,CUST087,Headphones,Electronics,5,65.00,0.10,Fremont,Cash
+ORD0227,2026-09-15,CUST051,Laptop,Electronics,5,850.00,0.00,San Francisco,Debit Card
+ORD0228,2026-10-31,CUST028,Headphones,Electronics,2,65.00,0.05,San Jose,Cash
+ORD0229,2026-09-01,CUST064,Mouse,Electronics,4,25.00,0.00,Oakland,Online
+ORD0230,2026-10-16,CUST030,Notebook,Stationery,5,6.00,0.15,San Jose,Credit Card
+ORD0231,2026-10-26,CUST095,Standing Desk,Furniture,1,320.00,0.10,San Francisco,Online
+ORD0232,2026-10-26,CUST041,Mouse,Electronics,5,25.00,0.10,Fremont,Online
+ORD0233,2026-10-11,CUST054,USB Cable,Electronics,3,10.00,0.00,Sacramento,Credit Card
+ORD0234,2026-09-11,CUST080,Desk Chair,Furniture,4,145.00,0.20,San Jose,Credit Card
+ORD0235,2026-10-25,CUST014,Standing Desk,Furniture,2,320.00,0.10,Fremont,Online
+ORD0236,2026-09-06,CUST051,Notebook,Stationery,3,6.00,0.20,San Jose,Debit Card
+ORD0237,2026-10-20,CUST022,Desk Chair,Furniture,1,145.00,0.15,San Francisco,Debit Card
+ORD0238,2026-09-23,CUST094,Desk Chair,Furniture,2,145.00,0.00,San Francisco,Debit Card
+ORD0239,2026-09-13,CUST023,Headphones,Electronics,5,65.00,0.00,San Francisco,Debit Card
+ORD0240,2026-10-02,CUST060,Backpack,Accessories,5,48.00,0.15,Sacramento,Cash
+ORD0241,2026-09-21,CUST020,Backpack,Accessories,4,48.00,0.00,Sacramento,Online
+ORD0242,2026-09-20,,Backpack,Accessories,5,48.00,0.00,San Jose,Credit Card
+ORD0243,2026-09-30,CUST058,Headphones,Electronics,1,65.00,0.00,San Jose,Cash
+ORD0244,2026-10-12,CUST012,Mouse,Electronics,5,25.00,0.15,Fremont,Online
+ORD0245,2026-10-08,CUST071,Desk Lamp,Home Office,1,35.00,0.10,Fremont,Debit Card
+ORD0246,2026-10-09,CUST061,Desk Chair,Furniture,5,145.00,0.00,San Francisco,Online
+ORD0247,2026-10-22,CUST044,Mouse,Electronics,1,25.00,0.15,Oakland,Credit Card
+ORD0248,2026-10-16,CUST057,Monitor,Electronics,4,220.00,0.15,Fremont,Debit Card
+ORD0249,2026-09-24,CUST037,Desk Chair,Furniture,4,145.00,0.10,San Jose,Credit Card
+ORD0250,2026-10-12,CUST043,Backpack,Accessories,1,48.00,0.05,San Francisco,Online
+ORD0251,2026-09-17,CUST093,Headphones,Electronics,5,65.00,0.00,San Jose,Credit Card
+ORD0252,2026-10-13,CUST019,Pen Set,Stationery,3,12.00,0.05,Sacramento,Debit Card
+ORD0253,2026-10-16,CUST011,Pen Set,Stationery,3,12.00,0.15,Sacramento,Cash
+ORD0254,2026-10-13,CUST090,Keyboard,Electronics,5,75.00,0.00,Sacramento,Cash
+ORD0255,2026-09-24,CUST040,Laptop,Electronics,2,850.00,0.00,San Jose,Online
+ORD0256,2026-09-15,CUST018,Monitor,Electronics,2,220.00,0.00,San Jose,Credit Card
+ORD0257,2026-10-20,CUST070,Notebook,Stationery,5,6.00,0.00,San Jose,Debit Card
+ORD0258,2026-09-25,CUST020,Pen Set,Stationery,2,12.00,0.00,Fremont,Debit Card
+ORD0259,2026-09-29,CUST006,USB Cable,Electronics,4,10.00,0.05,Oakland,Online
+ORD0260,2026-09-19,CUST058,Pen Set,Stationery,2,12.00,0.15,Oakland,Cash
+ORD0261,2026-10-28,CUST025,Desk Lamp,Home Office,3,35.00,0.20,Fremont,Online
+ORD0262,2026-10-20,CUST037,Desk Lamp,Home Office,4,35.00,0.15,Fremont,Online
+ORD0263,2026-10-23,CUST026,Keyboard,Electronics,5,75.00,0.00,San Jose,Credit Card
+ORD0264,2026-10-01,CUST048,Backpack,Accessories,5,48.00,0.00,Fremont,Credit Card
+ORD0265,2026-09-06,CUST021,Headphones,Electronics,3,65.00,0.10,Fremont,Debit Card
+ORD0266,2026-09-06,CUST029,Standing Desk,Furniture,4,320.00,0.05,San Francisco,Online
+ORD0267,2026-09-26,CUST065,Laptop,Electronics,3,850.00,0.00,Sacramento,Credit Card
+ORD0268,2026-09-15,CUST004,Desk Chair,Furniture,3,145.00,0.00,San Jose,Debit Card
+ORD0269,2026-09-03,CUST037,Keyboard,Electronics,4,75.00,0.20,Oakland,Online
+ORD0270,2026-10-10,CUST001,Desk Lamp,Home Office,1,35.00,0.00,San Jose,Debit Card
+ORD0271,2026-10-06,CUST094,Keyboard,Electronics,5,75.00,0.15,Sacramento,Credit Card
+ORD0272,2026-09-16,CUST039,Headphones,Electronics,1,65.00,0.00,Oakland,Online
+ORD0273,2026-10-21,CUST080,Backpack,Accessories,4,48.00,0.00,San Francisco,Online
+ORD0274,2026-10-05,CUST003,Pen Set,Stationery,5,12.00,0.15,Oakland,Debit Card
+ORD0275,2026-09-28,CUST001,Headphones,Electronics,5,65.00,0.05,Oakland,Online
+ORD0276,2026-10-13,CUST086,Keyboard,Electronics,1,75.00,0.15,San Jose,Credit Card
+ORD0277,2026-10-05,CUST065,Notebook,Stationery,5,6.00,0.15,San Francisco,Online
+ORD0278,2026-09-03,CUST082,Desk Lamp,Home Office,4,35.00,0.05,San Jose,Credit Card
+ORD0053,2026-09-11,CUST057,Headphones,Electronics,5,65.00,0.20,San Jose,Credit Card
+ORD0280,2026-09-03,CUST046,Keyboard,Electronics,5,75.00,0.05,Oakland,Online
+ORD0281,2026-10-01,CUST081,USB Cable,Electronics,2,10.00,0.00,San Francisco,Online
+ORD0282,2026-09-19,CUST026,Laptop,Electronics,1,850.00,0.00,San Francisco,Cash
+ORD0283,2026-10-03,CUST051,Headphones,Electronics,5,65.00,0.10,San Jose,Credit Card
+ORD0284,2026-09-13,CUST037,Backpack,Accessories,3,48.00,0.00,San Jose,Cash
+ORD0285,2026-10-22,CUST048,Mouse,Electronics,4,25.00,0.10,Sacramento,Online
+ORD0286,2026-09-12,CUST064,Desk Chair,Furniture,4,145.00,0.05,Fremont,Cash
+ORD0287,2026-10-17,CUST055,Mouse,Electronics,1,25.00,0.10,Fremont,Debit Card
+ORD0288,2026-09-19,CUST042,Notebook,Stationery,1,6.00,0.00,San Jose,Cash
+ORD0289,2026-09-29,CUST078,Headphones,Electronics,4,65.00,0.00,Sacramento,Cash
+ORD0290,2026-09-03,CUST094,Desk Lamp,Home Office,3,35.00,0.15,Sacramento,Cash
+ORD0291,2026-10-21,CUST008,Backpack,Accessories,1,48.00,0.20,Sacramento,Cash
+ORD0292,2026-10-22,CUST087,Notebook,Stationery,2,6.00,0.00,Oakland,Online
+ORD0293,2026-09-09,CUST009,Laptop,Electronics,2,850.00,0.20,San Jose,Cash
+ORD0294,2026-10-31,CUST073,Standing Desk,Furniture,1,320.00,0.15,Oakland,Online
+ORD0295,2026-09-24,CUST057,Desk Chair,Furniture,1,145.00,0.15,Oakland,Cash
+ORD0296,2026-09-21,CUST084,Standing Desk,Furniture,3,320.00,0.00,San Francisco,Credit Card
+ORD0297,2026-09-12,CUST064,USB Cable,Electronics,5,10.00,0.10,Fremont,Credit Card
+ORD0298,2026-10-20,CUST034,Headphones,Electronics,4,65.00,0.00,Fremont,Cash
+ORD0299,2026-10-29,CUST063,USB Cable,Electronics,2,10.00,0.00,Oakland,Credit Card
+ORD0300,2026-09-12,CUST092,Desk Lamp,Home Office,4,35.00,0.00,San Jose,Cash
